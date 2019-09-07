@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303f9f</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="voilet">#663399</color>
+    <color name="darkvoilet">#9400d3</color>
+    <color name="white">#ffffff</color>
+    <color name="appbarcolor">#9400d3</color>
+    <color name="wrong">#FFA07A</color>
+    <color name="black">#000000</color>
+    <color name="lightgreen">#a4c639</color>
+    <color name="darkgreen">#006400</color>
+    <color name="popup">#d699ff</color>
+    <color name="popupbtn">#c6538c</color>
+    <color name="mainHead">#800080</color>
+    <color name="skyblue">#1bd4f6</color>
+    <color name="grey">#ababb2</color>
+    <color name="red">#8B0000</color>
+    <color name="skyblue1">#7EC0EE</color>
+    <color name="yellow_orange">#ffae42</color>
+    <color name="verylightgreen">#84DD84</color>
+    <color name="light_grey">#DCDCDC</color>
+    <color name="l_grey">#cdc9c9</color>
+    <color name="ll_grey">#eee9e9</color>
+
+</resources>
